@@ -3,7 +3,7 @@ Code will be available soon, please stay tuned!
 
 ### ConflcitQA
 
-We provide the conflictQA GPT-4 version, which utilizes GPT-4 guided parametric memory.
+We provide the conflictQA GPT-4 (ChatGPT) version, which utilizes GPT-4 (ChatGPT) guided parametric memory.
 
 The data is available at [conflictQA](conflictQA) foloder. This folder contains the data for both POPQA and STRATEGYQA
 
