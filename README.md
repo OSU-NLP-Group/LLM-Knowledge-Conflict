@@ -28,7 +28,7 @@ We also release our dataset at: Huggingface datasets: https://huggingface.co/dat
 ```python
 #loading dataset
 from datasets import load_dataset
-# you can also choose other dataset in ["ConflictQA-popQA-chatgpt","ConflictQA-popQA-gpt4","ConflictQA-strategyQA-chatgpt","ConflictQA-strategyQA-gpt4]
+# you can also choose other dataset in ["ConflictQA-popQA-chatgpt","ConflictQA-popQA-gpt4","ConflictQA-strategyQA-chatgpt","ConflictQA-strategyQA-gpt4"]
 dataset = load_dataset("osunlp/ConflictQA",'ConflictQA-popQA-chatgpt')
 ```
 
