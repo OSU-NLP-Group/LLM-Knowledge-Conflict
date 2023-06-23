@@ -15,7 +15,7 @@ args = parser.parse_args()
 
 if __name__ == '__main__':
     # please choose the different prompt generation func in different step.
-    test_data = build_zeroshot_prompt_strategyQA_with_singleSource_evidence(args.input_file, mode="explicit", evidence_order='conf_para')
+    test_data = build_zeroshot_prompt_strategyQA_with_singleSource_evidence(args.input_file, mode="explicit", evidence_order='random')
     total_price = 0
     for idx, prompt in enumerate(tqdm(test_data[:10])):
         if prompt == "":
