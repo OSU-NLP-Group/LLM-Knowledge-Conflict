@@ -1,6 +1,4 @@
 # LLM-knowledge-conflict
-Code will be available soon, please stay tuned!
-
 ### ConflcitQA
 
 We provide the conflictQA GPT-4 (ChatGPT) version, which utilizes GPT-4 (ChatGPT) guided parametric memory.
@@ -32,11 +30,13 @@ from datasets import load_dataset
 dataset = load_dataset("osunlp/ConflictQA",'ConflictQA-popQA-chatgpt')
 ```
 
+Code is available in at [code](code) foloder.
+
 ### Citation
 
 If our paper or related resources prove valuable to your research, we kindly ask for citation. Please feel free to contact us with any inquiries.
 
-```
+```bib
 @article{xie2023adaptive,
   title={Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts},
   author={Xie, Jian and Zhang, Kai and Chen, Jiangjie and Lou, Renze and Su, Yu},
