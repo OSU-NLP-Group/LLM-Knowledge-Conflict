@@ -1,7 +1,7 @@
 # LLM-knowledge-conflict
 ### ConflcitQA
 
-We provide the conflictQA GPT-4 (ChatGPT) version, which utilizes GPT-4 (ChatGPT) guided parametric memory.
+We provide the conflictQA  based on different large language models, which utilizes large language models guided parametric memory.
 
 The data is available at [conflictQA](conflictQA) foloder. This folder contains the data for both POPQA and STRATEGYQA
 
@@ -26,11 +26,11 @@ We also release our dataset at: Huggingface datasets: https://huggingface.co/dat
 ```python
 #loading dataset
 from datasets import load_dataset
-# you can also choose other dataset in ["ConflictQA-popQA-chatgpt","ConflictQA-popQA-gpt4","ConflictQA-strategyQA-chatgpt","ConflictQA-strategyQA-gpt4"]
+# you can choose dataset "ConflictQA-popQA-[PLACEHOLDER]", and the [PLACEHOLDER] is in ["chatgpt","gpt4","palm2","llama2-7b","llama2-70b","qwen7b","vicuna7b","vicuna33b"].
 dataset = load_dataset("osunlp/ConflictQA",'ConflictQA-popQA-chatgpt')
 ```
 
-Code is available in at [code](code) foloder.
+Code is available in [code](code) foloder.
 
 ### Citation
 
