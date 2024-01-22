@@ -1,5 +1,5 @@
-# LLM-knowledge-conflict
-### ConflcitQA
+# [ICLR'24] LLM-knowledge-conflict
+### ConflictQA
 
 We provide the conflictQA  based on different large language models, which utilizes large language models guided parametric memory.
 
