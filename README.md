@@ -37,11 +37,11 @@ Code is available in [code](code) foloder.
 If our paper or related resources prove valuable to your research, we kindly ask for citation. Please feel free to contact us with any inquiries.
 
 ```bib
-@article{Xie2023KnowledgeConflict,
+@inproceedings{Xie2024KnowledgeConflict,
   title={Adaptive Chameleon or Stubborn Sloth: Revealing the Behavior of Large Language Models in Knowledge Conflicts},
   author={Xie, Jian and Zhang, Kai and Chen, Jiangjie and Lou, Renze and Su, Yu},
-  journal={arXiv preprint arXiv:2305.13300},
-  year={2023}
+  booktitle={Proceedings of ICLR},
+  year={2024},
 }
 ```
 
