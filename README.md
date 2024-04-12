@@ -37,11 +37,13 @@ Code is available in [code](code) foloder.
 If our paper or related resources prove valuable to your research, we kindly ask for citation. Please feel free to contact us with any inquiries.
 
 ```bib
-@inproceedings{Xie2024KnowledgeConflict,
-  title={Adaptive Chameleon or Stubborn Sloth: Revealing the Behavior of Large Language Models in Knowledge Conflicts},
-  author={Xie, Jian and Zhang, Kai and Chen, Jiangjie and Lou, Renze and Su, Yu},
-  booktitle={Proceedings of ICLR},
-  year={2024},
+@inproceedings{
+xie2024knowledgeconflict,
+title={Adaptive Chameleon  or Stubborn Sloth: Revealing the Behavior of Large Language Models in Knowledge Conflicts},
+author={Jian Xie and Kai Zhang and Jiangjie Chen and Renze Lou and Yu Su},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=auKAUJZMO6}
 }
 ```
 
